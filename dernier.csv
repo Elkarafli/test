@@ -1,0 +1,17 @@
+﻿id,pays,prix,carburant,km,statut_vendeur_particulier,departement_2,marque_2,annee,mois,poid,id2
+10293535,FR,5450,Essence,90000,0,35,peugeot,2017,5,683,2017.Essence
+10435788,FR,5990,Diesel,73000,0,83,peugeot,2017,5,1786,2017.Diesel
+7367150,FR,18490,Diesel,4514,0,76,renault,2016,10,1102,2016.Diesel
+7471407,FR,14390,Essence,30340,0,59,opel,2016,10,225,2016.Essence
+7455745,FR,21990,Hybride diesel Ǹlectrique,31320,0,78,peugeot,2016,10,1,2016.Hybride diesel Ǹlectrique
+18206724,FR,23450,Essence,57500,1,9,mercedes,2018,2,155,2018.Essence
+17330371,FR,24700,Diesel,26000,1,91,volkswagen,2018,1,424,2018.Diesel
+8663915,FR,23911,Autre,12311,0,83,lexus,2017,2,9,2017.Autre
+8558672,FR,21900,Hybride essence Ǹlectrique,11074,0,95,lexus,2017,1,1,2017.Hybride essence Ǹlectrique
+8063162,FR,4400,Electrique,51000,1,94,honda,2016,12,2,2016.Electrique
+8160486,FR,6500,Gpl,71000,1,59,opel,2016,12,2,2016.Gpl
+13529728,FR,8300,Gpl,101800,1,45,citroen,2017,9,3,2017.Gpl
+9312873,FR,23900,Electrique,9414,0,49,bmw,2017,3,2,2017.Electrique
+19201823,FR,21500,Electrique,10000,1,49,nissan,2018,2,2,2018.Electrique
+15938637,FR,16300,Hybride,70000,1,47,peugeot,2017,11,1,2017.Hybride
+17676712,FR,12980,Hybride,98066,0,45,lexus,2018,1,1,2018.Hybride
